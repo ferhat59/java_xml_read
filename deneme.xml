@@ -8,5 +8,23 @@
         <Tur>Dram</Tur>
         <KoltukAdet>10</KoltukAdet>
     </Oyun>
+    <Oyun>
+        <ID>2</ID>
+        <OyunAdi>FERHAT CAMGÖZ</OyunAdi>
+        <Tarih>00.00.0000</Tarih>
+        <Ucret>3</Ucret>
+        <SalonNo>a1</SalonNo>
+        <Tur>Dram</Tur>
+        <KoltukAdet>10</KoltukAdet>
+    </Oyun>
+    <Oyun>
+        <ID>3 </ID>
+        <OyunAdi>FERHAT CAMGÖZ</OyunAdi>
+        <Tarih>00.00.0000</Tarih>
+        <Ucret>3</Ucret>
+        <SalonNo>a1</SalonNo>
+        <Tur>Dram</Tur>
+        <KoltukAdet>10</KoltukAdet>
+    </Oyun>
 
 </Oyunlar>

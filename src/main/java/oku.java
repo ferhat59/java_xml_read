@@ -15,6 +15,7 @@ public class oku {
     public static void main(String[] args) throws IOException, SAXException {
         String xml_dosya="deneme.xml";
         Match $game = $(new File(xml_dosya));
+
         System.out.println();
         // burası döngü  ile okumak için kullanılabilir
         System.out.println( $game.find("Oyun").find().text(0));
